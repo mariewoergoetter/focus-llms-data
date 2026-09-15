@@ -48,4 +48,4 @@ The current workshop paper is non-archival. Citation information for an archival
 
 Until an archival version is available, please cite this repository as:
 
-> Wörgötter, Marie-Léontine, Gaurav Kamath, and Sebastian Schuster. 2026. *Focus, LLMs! Evaluation Data*. GitHub repository.
+> Wörgötter Marie-Léontine, Gaurav Kamath, and Sebastian Schuster. 2026. *Focus, LLMs! Evaluation Data*. GitHub repository.
